@@ -33,3 +33,12 @@ footer {
 .container-fluid{
   justify-items: center;
 }
+.jumbotron .display-4 {
+  font-size: 2.5rem; /* Adjust the font size as needed */
+}
+.jumbotron .lead {
+  font-size: 1.25rem; /* Adjust the font size as needed */
+}
+.jumbotron p {
+  font-size: 1rem; /* Adjust the font size as needed */
+}
